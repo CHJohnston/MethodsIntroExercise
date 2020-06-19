@@ -41,9 +41,6 @@ namespace LearningMethodsConsoleUI
             int divisionAnswer = Division(firstNum, secondNum);
             Console.WriteLine($"The Quotient is {divisionAnswer}");
 
-
-
-
         }
         public static string MySillyStory(string name, string age, string color, string food, string animal)
         //Exercise #1 This method builds MySillyStory 
