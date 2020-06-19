@@ -1,0 +1,13 @@
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\bin\Debug\netcoreapp3.1\MethodsIntroConsoleUI.exe
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\bin\Debug\netcoreapp3.1\MethodsIntroConsoleUI.deps.json
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\bin\Debug\netcoreapp3.1\MethodsIntroConsoleUI.runtimeconfig.json
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\bin\Debug\netcoreapp3.1\MethodsIntroConsoleUI.runtimeconfig.dev.json
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\bin\Debug\netcoreapp3.1\MethodsIntroConsoleUI.dll
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\bin\Debug\netcoreapp3.1\MethodsIntroConsoleUI.pdb
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.csprojAssemblyReference.cache
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.AssemblyInfo.cs
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.dll
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.pdb
+C:\Users\ConnieJohnston\Desktop\repos\MethodsIntoApp\MethodsIntroConsoleUI\obj\Debug\netcoreapp3.1\MethodsIntroConsoleUI.genruntimeconfig.cache
